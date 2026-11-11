@@ -96,6 +96,6 @@ git clone https://github.com/your-username/Java-Programming-Tasks.git
 
 ---
 
-## Author
+## Auther 
 
-**Ritesh Kumar**
+**Ritesh Kumar
